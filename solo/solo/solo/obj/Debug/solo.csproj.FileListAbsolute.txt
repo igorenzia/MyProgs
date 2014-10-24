@@ -1,0 +1,9 @@
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\bin\Debug\solo.exe.config
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\bin\Debug\solo.exe
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\bin\Debug\solo.pdb
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.csprojResolveAssemblyReference.cache
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.Form1.resources
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.Properties.Resources.resources
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.csproj.GenerateResource.Cache
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.exe
+C:\Users\igorenzia\Cloud@Mail.Ru\мои проги\VS 2010\solo\solo\solo\obj\Debug\solo.pdb
